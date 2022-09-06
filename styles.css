@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    color: #d00000;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    background: #370617;
+    background-image: url("https://i.gifer.com/o3F.gif");
+    background-size: cover;
+    padding: 250px 0 40px 0;
+}
+
+#main-logo {
+    width: 180px;   
+}
+
+#title {
+    text-shadow: 2px 2px 6px black;
+}
+
+.btn {
+    width: 80px;
+    padding: 6px 12px;
+    background: #370617;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color:  #d00000;
+    font-weight: 800;
+    box-shadow: 2px 2px 6px black;
+}
